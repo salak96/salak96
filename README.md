@@ -8,8 +8,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Snake Eating my contribution
-![snake gif](https://github.com/salak96/salak96/blob/output/github-contribution-grid-snake.gif)
+## All inbuilt themes
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 ## Sosial_Media
