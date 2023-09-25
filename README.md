@@ -1,7 +1,8 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Salak96</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+         <h2 className='text-2xl sm:text-5xl font-bold text-white'>
+                        Hello, I'm Sasangka || Front end Developer
+                    </h2>
 </p>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
@@ -39,7 +40,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ## All inbuilt themes
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Sasangka lambang k](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 ## Sosial_Media
