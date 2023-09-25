@@ -37,8 +37,6 @@
 <a href="https://instagram.com/sasangkaart10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sasangkaart10" height="30" width="40" /></a>
 </p>
 
-## Languages and Tools:
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <!-- html -->
