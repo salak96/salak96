@@ -37,7 +37,7 @@
 <a href="https://instagram.com/sasangkaart10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sasangkaart10" height="30" width="40" /></a>
 </p>
 
-<h3 align="cemter">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <!-- html -->
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -57,10 +57,10 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <!-- Linux -->
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
-<h3 align="left">Rank Languages </h3>
+<h3 align="center">Rank Languages </h3>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
-## All inbuilt themes
+<h3 align="center"> All inbuilt themes</h3>
 ![Sasangka lambang k](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
