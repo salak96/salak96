@@ -63,7 +63,7 @@
   </a> 
   <!-- Tailwind -->
   <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/> 
+    <img src="https://media.licdn.com/dms/image/v2/D4D12AQH8u_2PcAxn1A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1729339912235?e=2147483647&v=beta&t=CLjsBXmNZ5N4FjPia2exIwbO50wGB33uU-f0AZx7_wo" alt="tailwindcss" width="40" height="40"/> 
   </a>
   <!-- PHP -->
   <a href="https://www.php.net" target="_blank"> 
